@@ -30,6 +30,9 @@ This is a simple HTML mini project that displays a **sidebar layout** with a pho
 
 
 # Sidebar Photo Layout – Mini CSS Project
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge)](https://sachinkumar999.github.io/Sidebar-Photo-Layout-Mini-CSS-Project/)
+
+
 [![Live Demo](https://img.shields.io/badge/ Live-Demo-blue?style=for-the-badge)](https://sachinkumar999.github.io/Sidebar-Photo-Layout-Mini-CSS-Project/)
 
 A sleek, minimalistic sidebar photo layout built with modern CSS techniques. Browse the live demo instantly!
